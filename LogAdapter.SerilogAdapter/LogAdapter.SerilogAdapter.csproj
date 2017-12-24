@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="LogAdapter.SerilogAdapter.1.0.0-betta.nupkg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Serilog" Version="2.6.0" />
   </ItemGroup>
 
