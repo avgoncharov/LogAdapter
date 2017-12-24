@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>LogAdapter.SerilogAdapter</id>
+		<version>1.0-betta</version>
+		<title>LogAdapter.SerilogAdapter</title>
+		<authors>Andery Goncharov</authors>
+		<owners>Andery Goncharov</owners>
+		<licenseUrl>https://github.com/avgoncharov/LogAdapter/blob/master/LICENSE</licenseUrl>
+		<projectUrl>https://github.com/avgoncharov/LogAdapter</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Empty</description>
+		<copyright>Copyright (c) 2017 Goncharov Andrey</copyright>
+
+		<dependencies>
+			<dependency id="LogAdapter.Interfaces" version="1.0-betta" />
+			<dependency id="Serilog" version="2.6.0" />
+		</dependencies>
+	</metadata>
+</package>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>LogAdapter.Interfaces</id>
+		<version>1.0-betta</version>
+		<title>LogAdapter.Interfaces</title>
+		<authors>Andrey Goncharov</authors>
+		<owners>Andrey Goncharov</owners>
+		<licenseUrl>https://github.com/avgoncharov/LogAdapter/blob/master/LICENSE</licenseUrl>
+		<projectUrl>https://github.com/avgoncharov/LogAdapter</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Empty</description>
+		<copyright>Copyright (c) 2017 Goncharov Andrey</copyright>
+	</metadata>
+</package>
